@@ -1,0 +1,20 @@
+@import "tailwindcss";
+@import "./typography.css";
+
+
+.eb-garamond {
+  font-family: "EB Garamond", serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+
+.dark2{
+    color: rgb(65, 64, 64);
+}
+.dark3{
+    color: rgb(112, 112, 112);
+}
+.dark4{
+    color: rgb(160, 160, 160);
+}
